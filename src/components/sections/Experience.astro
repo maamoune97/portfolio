@@ -39,14 +39,23 @@ const SKILLS_ICONS: Record<string, any> = {
 <Section className={Astro.props.className} title="Experiences">
   <ul class="flex flex-col">
     {work.map(({ name, startDate, endDate, position, summary, responsibilities, achievements, url, skills, location, location_type }) => {
-      const startYear = new Date(startDate).getFullYear()
-      const endYear = endDate != null ? new Date(endDate).getFullYear() : "Present"
+      // Formatage des dates pour inclure le mois et l'année
+  const formatDate = (dateString) => {
+        if (!dateString) return "Present";
+        const date = new Date(dateString);
+        // Options pour formatter les mois en français
+    return `${date.toLocaleString('fr-FR', { month: '2-digit' })} ${date.getFullYear()}`;
+        // Ou en anglais: return `${date.toLocaleString('en-US', { month: 'short' })} ${date.getFullYear()}`;
+  };
+
+      const startFormatted = formatDate(startDate);
+      const endFormatted = formatDate(endDate);
 
       return (
         <li class="relative print:py-2">
           <div class="group relative grid pb-1 print:pb-0 transition-all print:grid-cols-1 print:gap-1 sm:grid-cols-12 sm:gap-8 md:gap-6 lg:hover:!opacity-100 ">
             <header class="relative mt-1 text-xs font-semibold sm:col-span-2">
-              <time datetime={startDate} data-title={startDate}>{startYear}</time> - <time datetime={endDate} data-title={endDate}>{endYear}</time>
+              <time datetime={startDate} data-title={startDate}>{startFormatted}</time> - <time datetime={endDate} data-title={endDate}>{endFormatted}</time>
             </header>
             <div class="relative flex flex-col pb-6 print:pb-0 before:-ml-6 sm:col-span-10 before:w-px print:before:hidden before:absolute before:bg-skin-muted before:h-full before:mt-2">
             <div class="absolute w-2 h-2 bg-skin-muted rounded-full mt-2 -translate-x-[1.71rem] ring print:hidden ring-skin-fill"></div>
@@ -115,7 +124,7 @@ const SKILLS_ICONS: Record<string, any> = {
                 </div>
                 
                 <button @click="expanded = ! expanded" class="print:hidden group/more w-fit cursor-pointer items-center justify-center gap-1.5 text-xs underline text-skin-muted transition-all hover:text-skin-base flex">
-                  <span x-text="expanded ? 'Show less' : 'Show more'">Show more</span>
+                  <span x-text="expanded ? 'Voir moins' : 'Voir plus'">Voir plus</span>
                   <svg class="w-4 h-4 group-hover/more:translate-y-0.5 duration-200 ease-out" :class="{ 'rotate-180': expanded }" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
                 </button>
 

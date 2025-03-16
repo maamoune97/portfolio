@@ -1,39 +1,39 @@
 {
   "basics": {
     "name": "Hassane Maamoune",
-    "label": "Ingénieur logiciel spécialisé en PHP Symfony",
+    "label": "Développeur PHP confirmé | Symfony & API Platform",
     "image": "/me_avatar.jpg",
     "email": "maamoune97bv@gmail.com",
     "phone": "06 17 06 79 76",
-    "url": "https://hassanemaamoune.dev",
-    "summary": "Ingénieur logiciel spécialisé dans les applications web avec PHP Symfony. Plus de 2 ans d'expérience dans le développement d'applications web performantes pour des entreprises dans divers secteurs, notamment l'éducation et la santé. Maîtrise approfondie des frameworks Symfony, Angular et Next.js, avec une solide expertise en conception de bases de données et intégration d'API.",
+    "url": "https://maamoune97.github.io/portfolio/",
+    "summary": "Développeur PHP avec une solide expérience en Symfony et API Platform, je conçois et optimise des applications web pour répondre aux besoins métiers complexes. Mon parcours m’a amené à travailler sur des solutions SaaS et des applications de gestion dans des secteurs exigeants comme la santé et l’éducation.",
     "theme": "blue",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Temara",
+      "city": "Témara",
       "countryCode": "MA",
       "region": "Maroc"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "hassane-maamoune",
-        "url": "https://linkedin.com/in/hassane-maamoune"
+        "username": "Maamoune Hassane",
+        "url": "https://www.linkedin.com/in/maamoune-hassane-986a05164/"
       },
       {
         "network": "GitHub",
-        "username": "hassanemaamoune",
-        "url": "https://github.com/hassanemaamoune"
+        "username": "maamoune97",
+        "url": "https://github.com/maamoune97"
       }
     ]
   },
   "work": [
     {
       "name": "Adkomo",
-      "position": "Ingénieur recherche et développement (Symfony – Next.js)",
-      "location_type": "On site",
-      "location": "Akkar business center, Rabat, Maroc",
+      "position": "Ingénieur R&D (Symfony – Next.js)",
+      "location_type": "Hybride",
+      "location": "Adkomo Digital Solutions, Rabat, Maroc",
       "url": "https://adkomo.com",
       "startDate": "2024-07-01",
       "endDate": null,
@@ -61,11 +61,11 @@
       ]
     },
     {
-      "name": "Matys Service Support / EBP Informatique France",
-      "position": "Ingénieur recherche et développement (Symfony – Angular)",
-      "location_type": "On site",
+      "name": "Matys Service Support",
+      "position": "Ingénieur R&D (Symfony – Angular)",
+      "location_type": "Hybride",
       "location": "Rabat, Maroc",
-      "url": "https://ebp.com",
+      "url": "https://matys-services.com",
       "startDate": "2022-08-01",
       "endDate": "2024-07-01",
       "summary": "Conception et développement des nouvelles fonctionnalités de l'application web École Futée, un ERP dédié à la gestion des établissements scolaires, utilisé par plus de 300 écoles en France et à travers le monde.",
@@ -95,7 +95,7 @@
     {
       "name": "EFPTH Ecole de formation privée de tourisme et d'hôtellerie",
       "position": "Concepteur et développeur web (Symfony)",
-      "location_type": "On site",
+      "location_type": "Remote",
       "location": "Kenitra, Maroc",
       "url": "https://efpth.ma",
       "startDate": "2022-02-01",
