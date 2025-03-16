@@ -1,0 +1,378 @@
+{
+  "basics": {
+    "name": "Hassane Maamoune",
+    "label": "Ingénieur logiciel spécialisé en PHP Symfony",
+    "image": "/me_avatar.jpg",
+    "email": "maamoune97bv@gmail.com",
+    "phone": "06 17 06 79 76",
+    "url": "https://hassanemaamoune.dev",
+    "summary": "Ingénieur logiciel spécialisé dans les applications web avec PHP Symfony. Plus de 2 ans d'expérience dans le développement d'applications web performantes pour des entreprises dans divers secteurs, notamment l'éducation et la santé. Maîtrise approfondie des frameworks Symfony, Angular et Next.js, avec une solide expertise en conception de bases de données et intégration d'API.",
+    "theme": "blue",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Temara",
+      "countryCode": "MA",
+      "region": "Maroc"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "hassane-maamoune",
+        "url": "https://linkedin.com/in/hassane-maamoune"
+      },
+      {
+        "network": "GitHub",
+        "username": "hassanemaamoune",
+        "url": "https://github.com/hassanemaamoune"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Adkomo",
+      "position": "Ingénieur recherche et développement (Symfony – Next.js)",
+      "location_type": "On site",
+      "location": "Akkar business center, Rabat, Maroc",
+      "url": "https://adkomo.com",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Conception et développement de l'application web Eekkare, un SaaS utilisé en France, conçu pour améliorer les échanges entre les pharmacies et les laboratoires.",
+      "highlights": [
+        "Développement fullstack d'une application SaaS dans le domaine pharmaceutique"
+      ],
+      "responsibilities": [
+        "Contribuer au processus de développement, depuis la conception jusqu'à la mise en œuvre des fonctionnalités",
+        "Respect d'un cahier des charges précis dans un environnement agile",
+        "Intégration continue et déploiement avec GitLab CI/CD"
+      ],
+      "achievements": [
+        "Implémentation réussie de nouvelles fonctionnalités clés pour l'application Eekkare"
+      ],
+      "skills": [
+        "PHP",
+        "JavaScript",
+        "Symfony",
+        "Next.js",
+        "PostgreSQL",
+        "API Platform",
+        "Docker",
+        "PHP-unit"
+      ]
+    },
+    {
+      "name": "Matys Service Support / EBP Informatique France",
+      "position": "Ingénieur recherche et développement (Symfony – Angular)",
+      "location_type": "On site",
+      "location": "Rabat, Maroc",
+      "url": "https://ebp.com",
+      "startDate": "2022-08-01",
+      "endDate": "2024-07-01",
+      "summary": "Conception et développement des nouvelles fonctionnalités de l'application web École Futée, un ERP dédié à la gestion des établissements scolaires, utilisé par plus de 300 écoles en France et à travers le monde.",
+      "highlights": [
+        "Direction du développement du module de comptabilité et facturation pour un ERP scolaire international"
+      ],
+      "responsibilities": [
+        "Diriger le processus complet, depuis la conception jusqu'à la mise en œuvre des fonctionnalités améliorées du module de comptabilité et de facturation",
+        "Collaborer avec une équipe multidisciplinaire pour optimiser les performances et l'efficacité de l'application",
+        "Maintenance et amélioration continue des fonctionnalités existantes"
+      ],
+      "achievements": [
+        "Contribution significative à une application utilisée par plus de 300 écoles internationales",
+        "Amélioration des performances et de l'efficacité des modules de comptabilité et facturation"
+      ],
+      "skills": [
+        "PHP",
+        "JavaScript",
+        "Symfony",
+        "Angular",
+        "MySQL",
+        "API Platform",
+        "Docker",
+        "PHP-unit"
+      ]
+    },
+    {
+      "name": "EFPTH Ecole de formation privée de tourisme et d'hôtellerie",
+      "position": "Concepteur et développeur web (Symfony)",
+      "location_type": "On site",
+      "location": "Kenitra, Maroc",
+      "url": "https://efpth.ma",
+      "startDate": "2022-02-01",
+      "endDate": "2022-06-01",
+      "summary": "Conception, développement et déploiement en intranet d'une application Web pour la gestion d'une école. L'application étant dédiée à l'administration, elle se constitue de 4 axes principaux à savoir la gestion des étudiants, des professeurs, des évaluations avec génération des relevés des notes et la facturation des élèves.",
+      "highlights": [
+        "Développement complet d'une application Symfony de gestion scolaire"
+      ],
+      "responsibilities": [
+        "Analyse des besoins et conception de l'architecture logicielle",
+        "Développement full-stack d'une application intranet de gestion scolaire",
+        "Mise en place d'un système de génération automatique des relevés de notes"
+      ],
+      "achievements": [
+        "Livraison réussie d'un système complet de gestion scolaire incluant quatre modules principaux",
+        "Implémentation d'un système de facturation automatisé"
+      ],
+      "skills": [
+        "PHP",
+        "JavaScript",
+        "Symfony",
+        "MariaDB",
+        "Docker",
+        "Git"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sup'Management",
+      "url": "https://supmanagement.ma",
+      "area": "Systèmes d'information",
+      "studyType": "Diplôme d'ingénierie",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": [
+        "Développement d'applications",
+        "Architecture logicielle",
+        "Bases de données avancées",
+        "Génie logiciel"
+      ]
+    },
+    {
+      "institution": "Sup'Management",
+      "url": "https://supmanagement.ma",
+      "area": "Ingénierie informatique",
+      "studyType": "Licence professionnelle",
+      "startDate": "2016-09-01",
+      "endDate": "2019-06-01",
+      "score": "",
+      "courses": [
+        "Programmation orientée objet",
+        "Développement web",
+        "Réseaux informatiques",
+        "Systèmes d'information"
+      ]
+    },
+    {
+      "institution": "Lycée privé Intelligentsia",
+      "url": "",
+      "area": "Série scientifique D (option Mathématique)",
+      "studyType": "Baccalauréat",
+      "startDate": "2013-09-01",
+      "endDate": "2016-06-01",
+      "score": "",
+      "courses": [
+        "Mathématiques",
+        "Physique-Chimie",
+        "Sciences de la vie et de la Terre"
+      ]
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Expert",
+      "keywords": [
+        "Backend",
+        "OOP",
+        "MVC",
+        "API"
+      ]
+    },
+    {
+      "name": "Symfony",
+      "level": "Expert",
+      "keywords": [
+        "Backend",
+        "PHP Framework",
+        "Doctrine",
+        "Twig"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Backend",
+        "SPA",
+        "DOM Manipulation"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "TypeScript",
+        "SPA",
+        "Component-based"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Frontend",
+        "React",
+        "SSR",
+        "JAMstack"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Relational",
+        "Query Optimization"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Relational",
+        "Performance"
+      ]
+    },
+    {
+      "name": "MariaDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Database",
+        "SQL",
+        "Open Source",
+        "MySQL Fork"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "DevOps",
+        "Deployment",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "GitFlow",
+        "Collaboration",
+        "CI/CD Integration"
+      ]
+    },
+    {
+      "name": "API Platform",
+      "level": "Advanced",
+      "keywords": [
+        "REST API",
+        "Symfony",
+        "API Development",
+        "JSON-LD"
+      ]
+    },
+    {
+      "name": "HTML5",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Semantic Markup",
+        "Web Standards"
+      ]
+    },
+    {
+      "name": "CSS3",
+      "level": "Advanced",
+      "keywords": [
+        "Frontend",
+        "Responsive Design",
+        "Styling",
+        "Flexbox"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Bilingue"
+    },
+    {
+      "language": "English",
+      "fluency": "Compétences professionnelles limitées"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Développement Web",
+      "keywords": [
+        "PHP",
+        "JavaScript",
+        "Frameworks",
+        "Architecture logicielle"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "DevOps",
+        "Cloud Computing",
+        "Conteneurisation"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Disponible sur demande",
+      "reference": "Des références professionnelles peuvent être fournies sur demande."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Eekkare",
+      "isActive": true,
+      "description": "SaaS destiné à améliorer les échanges entre les pharmacies et les laboratoires en France. Application développée avec Symfony et Next.js, utilisant PostgreSQL comme base de données.",
+      "highlights": [
+        "Architecture moderne basée sur API Platform",
+        "Interface utilisateur réactive développée avec Next.js",
+        "Utilisation des bonnes pratiques de développement avec tests unitaires"
+      ],
+      "url": "https://eekkare.com",
+      "github": ""
+    },
+    {
+      "name": "École Futée",
+      "isActive": true,
+      "description": "ERP dédié à la gestion des établissements scolaires, utilisé par plus de 300 écoles en France et à travers le monde. Application développée avec Symfony et Angular.",
+      "highlights": [
+        "Module de comptabilité et facturation performant",
+        "Interface intuitive pour la gestion administrative des écoles",
+        "Système de reporting avancé"
+      ],
+      "url": "https://ecolefutee.com",
+      "github": ""
+    },
+    {
+      "name": "Système de gestion EFPTH",
+      "isActive": false,
+      "description": "Application intranet de gestion scolaire pour l'École de formation privée de tourisme et d'hôtellerie. Développée avec Symfony et MariaDB.",
+      "highlights": [
+        "Gestion complète des étudiants et professeurs",
+        "Système d'évaluation et génération automatique des relevés de notes",
+        "Module de facturation des élèves"
+      ],
+      "url": "https://intranet.efpth.ma",
+      "github": ""
+    }
+  ]
+}
